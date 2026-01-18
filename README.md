@@ -11,7 +11,7 @@ TOPSIS, acronym for Technique for Order Preference by Similarity to Ideal Soluti
 
 Use the package manager pip to install topsis-shivank-102303655
 ```bash
-pip install topsis-shivank-102303655==0.2.2
+pip install topsis-shivank-102303655==0.2.3
 ```
 
 ## ⚙️ **Usage**
