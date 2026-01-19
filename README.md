@@ -7,6 +7,8 @@ _Submitted by:_ **Shivank Bhatia (102303655), 3C45**
 *Definition:*
 TOPSIS, acronym for Technique for Order Preference by Similarity to Ideal Solution, is a multi-criteria decision-making (MCDM) method used to rank alternatives by selecting the option that is closest to the ideal solution and farthest from the worst (negative ideal) solution.
 
+### Use this package as a [WebApp](https://shivankbhatia.pythonanywhere.com/) here.
+
 ## ✅ **Installation**
 
 Use the package manager pip to install topsis-shivank-102303655
